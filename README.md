@@ -508,7 +508,6 @@ GunZ The Duel Releases <br>
 
 <b>[servers]</b><br>
 - gunz a4u: [GunZA4U](https://gunzvn.net/)
-- gunz 2it: [gunz.2it](https://gunz.2it.in/)
 - freestylegunz: [fgunz](https://fgunz.net/)
 - universgamers: [universegunz](https://universegunz.net/)
 - internationalgunz: [igunz](https://igunz.net/) 
@@ -523,7 +522,7 @@ GunZ The Duel Releases <br>
 - gunzvn: [gunzvn.net](https://gunzvn.net/GunZ/)
 - huntxgunz: [huntx](http://gunz.retzu.com/)
 - royalgunz: [royalgunz](https://www.royalgunz.net/)
-- ogunz: [ogunz](http://ogunz.xyz/)
+
 
 <b>[resources]</b>
 - archive: [archive](https://archive.org/details/@wolfiecatchchu) (big archive of gunz files)
